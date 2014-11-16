@@ -1,0 +1,13 @@
+{
+  "name": "webapp-js-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Simon Andersson <hello@hiddencode.me>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "three.js": "*"
+  }
+}
